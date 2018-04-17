@@ -21,7 +21,7 @@ A detailed description how this engine works is available here: https://classier
 
 ## ScriptLibrary: Animal
 
-```
+```js
 var classier = system.library.classier.getClass();
 
 var Animal = classier.$extend({
@@ -88,7 +88,7 @@ function getClass() {
 
 ## ScriptLibrary: AnimalTest
 
-```
+```js
 var Animals = system.library.Animal.getClass();
 var Animal = Animals['animal'];
 var Tiger = Animals['tiger'];
