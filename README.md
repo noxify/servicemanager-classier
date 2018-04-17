@@ -13,7 +13,11 @@ A detailed description how this engine works is available here: https://classier
 
 * The definition of private and protected variables has no effect. It's always possible to access private & protected variables - The reason for this is the old javascript version.
 
-# Example
+# Real Life Example
+
+* https://github.com/noxify/servicemanager-table-builder
+
+# Simple Example
 
 ## ScriptLibrary: Animal
 
