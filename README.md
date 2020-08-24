@@ -1,3 +1,5 @@
+> Currently unmaintained since I have moved from Microfocus Service Manager to ServiceNow - Sorry guys!
+
 # servicemanager-classier
 
 This class extending engine is a fork from https://github.com/ironboy/classier.
